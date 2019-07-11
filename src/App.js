@@ -4,13 +4,14 @@ import './App.css';
 
 function App() {
   return (
-    <ol>
-      <li>About</li>
-      <li>Resume</li>
-      <li>Repository</li>
-    </ol>
-
-    <Footer />
+    <div>
+      <ol>
+        <li>About</li>
+        <li>Resume</li>
+        <li>Repository</li>
+      </ol>
+      <Footer />
+    </div>
   )
 }
 
