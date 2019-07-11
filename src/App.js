@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import { Footer } from './components/Footer'
 import './App.css';
 
 function App() {
@@ -9,6 +9,8 @@ function App() {
       <li>Resume</li>
       <li>Repository</li>
     </ol>
+
+    <Footer />
   )
 }
 
