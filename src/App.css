@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.footer .name {
+  font-size: 16px;
+  color: black;
+}
+
+.footer .extra {
+  font-size: 12px;
+  color: lightgray;
+}
