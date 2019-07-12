@@ -1,15 +1,12 @@
 import React from 'react';
 import { Footer } from './components/Footer'
 import './App.css';
+import { AboutContainer } from './containers/AboutContainer';
 
 function App() {
   return (
     <div>
-      <ol>
-        <li>About</li>
-        <li>Resume</li>
-        <li>Repository</li>
-      </ol>
+      <AboutContainer />
       <Footer />
     </div>
   )
