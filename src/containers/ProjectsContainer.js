@@ -1,5 +1,9 @@
 export const ProjectsContainer = () => (
     <ul>
+        <li> spotify api </li>
+        <li> nasa api for bg photo </li>
+        <li> create temp book reading list</li>
+        <li>Create a Project description list</li>
         <li>Snake in Python</li>
         <li>Build this website</li>
         <li>Build the backend for this website</li>

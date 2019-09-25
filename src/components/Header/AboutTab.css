@@ -1,0 +1,20 @@
+.text {
+    font-family: Garamond;
+    padding: 20px 20px 20px 20px;
+    display: block;
+    width: 20%;
+}
+
+.unselected {
+    width: 16.67%;
+    font-size: 100%;
+}
+
+.selected {
+    font-size: 250%;
+    width: 33.33%
+}
+
+.text:hover {
+    color: black;
+}

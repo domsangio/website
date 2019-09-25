@@ -1,5 +1,6 @@
 .footer {
     text-align: center;
+    padding: 25px 25px 25px 25px;
 }
 
 .footer .name {
@@ -9,6 +10,6 @@
   
 .footer .extra {
     font-size: 12px;
-    color: lightgray;
+    color: darkslategray;
 }
   

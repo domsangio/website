@@ -1,0 +1,14 @@
+.header {
+    padding: 25px 25px 25px 25px;
+    height: 80px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    background-color:  #1d64ac;
+    color: rgb(231, 231, 231);
+    font-family: Garamond;
+    text-align: center;
+    font-size: 30px;    
+}
