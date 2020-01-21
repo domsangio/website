@@ -22,5 +22,6 @@ export const ProjectsContainer = () => (
         <li>TODO thing on the site!</li>
         <li>Web scraper for AMazon and then get stock prices</li>
         <li>Yelp api for around boston?</li>
+        <li> github see what im working on??</li>
     </ul>
 )

@@ -12,7 +12,8 @@
 
 .selected {
     font-size: 250%;
-    width: 33.33%
+    width: 33.33%;
+    color: lightgoldenrodyellow
 }
 
 .text:hover {

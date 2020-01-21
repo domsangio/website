@@ -1,9 +1,9 @@
 import React from 'react'
 import './AboutInformation.css'
 
-export const AboutInformation = () =>
+export const AboutInformation = (props) =>
     (
-        <div className="paragraph">
+        <div className="paragraph" style={{"backgroundImage": `url(${props.backgroundImage})`}}>
                 <p>I am currently a college student at the University of Maryland.
                 I am majoring in both Computer Science and Mathematics as part of a dual degree.</p>
                 <p>A little about myself: I love playing video games, watching sports, math blak.</p>
@@ -16,7 +16,7 @@ export const AboutInformation = () =>
                 <p>
                     This website is currently written in ReactJS. The API and backend are written in Python and Flask in an effort
                     to help me learn the language. The database is using MongoDB which is used in python through
-                    pymongo. Highly reccomend all these!
+                    pymongo. Highly recommend all these!
                 </p>
         </div>
     )
